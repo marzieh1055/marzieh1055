@@ -63,5 +63,4 @@ Hi im Marzieh 👋 <br>Web Front End Developer 🌍<br>Wordpress, ReactJs 🔥 <
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=marzie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marzie&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marzie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
