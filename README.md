@@ -14,10 +14,12 @@ Hi im Marzieh 👋 <br>Master student of KNTU 📚<br>Web Front End Developer �
 
 
 
-<!--
+
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aa) 
--->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marzieh79_a13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzieh-aghamohammadi-23aa05249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aa) -->
+
 
 # 💻 Tech Stack:
 
