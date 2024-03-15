@@ -5,7 +5,7 @@ alim1381/alim1381 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-Hi im Marzieh 👋 <br>Web Front End Developer 🌍<br>Wordpress, ReactJs 🔥 <br/>
+Hi im Marzieh 👋 <br>Master student of KNTU 📚<br>Web Front End Developer 🌍<br>Wordpress, ReactJs 🔥 <br/>
 <b>Gmail : </b> marzieh4077@gmail.com
 
 <!-- <h3 align="left">Languages and Tools:</h3>
